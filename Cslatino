@@ -1,0 +1,9 @@
+{
+  "nombre": "Storm-ext Fork de teptap",
+  "descripción": "Una bifurcación de Storm-ext con los cambios de redblacker8.",
+  "iconUrl": "https://raw.githubusercontent.com/redblacker8/storm-ext/master/assets/repoIcon.jpg",
+  "manifestVersion": 2,
+  "pluginLists": [
+    "https://pastebin.com/raw/B7gXGzgp"
+  ]
+}
