@@ -1,0 +1,9 @@
+{
+  "nombre": "cslatino de teptap",
+  "descripción": "Una bifurcación de Storm-ext con los cambios de redblacker8.",
+  "iconUrl": "https://raw.githubusercontent.com/redblacker8/storm-ext/master/assets/repoIcon.jpg",
+  "manifestVersion": 2,
+  "pluginLists": [
+    "https://github.com/teptaptap472/Cs/blob/26cbf3383d8d8af934c5a2d47a25ecd57a64dfbd/lista_pluggins.json"
+  ]
+}
